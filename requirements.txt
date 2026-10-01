@@ -1,0 +1,8 @@
+PySide6>=6.8
+pymupdf
+httpx
+psutil
+ddgs
+python-docx
+pytest
+pytest-qt
