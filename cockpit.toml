@@ -6,6 +6,7 @@ enabled = [
     "dictation",
     "exe_build",
     "readme",
+    "releases",
     "terminal_explain",
     "versions",
 ]
