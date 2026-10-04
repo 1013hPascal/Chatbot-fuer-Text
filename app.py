@@ -1,4 +1,4 @@
-﻿"""Chatbot für Text: lokaler, barrierefreier Schreibassistent. Start: python app.py"""
+"""Chatbot für Text: lokaler, barrierefreier Schreibassistent. Start: python app.py"""
 import logging
 import multiprocessing
 import sys
