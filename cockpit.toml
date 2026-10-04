@@ -17,3 +17,15 @@ languages = [
     "Englisch",
 ]
 requirements = "Windows."
+
+[exe.build]
+start_file = "app.py"
+name = "Chatbot-für-Text"
+one_file = true
+windowed = true
+icon = ""
+datas = []
+hidden_imports = []
+self_test = false
+test_seconds = 10
+beside = []
