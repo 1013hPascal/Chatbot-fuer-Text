@@ -9,3 +9,10 @@ enabled = [
     "terminal_explain",
     "versions",
 ]
+
+[readme]
+main_language = "Deutsch"
+languages = [
+    "Englisch",
+]
+requirements = "Windows."
